@@ -1,0 +1,23 @@
+{
+  "name": "audiowave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "waves.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vky05/audiowave.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vky05/audiowave/issues"
+  },
+  "homepage": "https://github.com/vky05/audiowave#readme",
+  "dependencies": {
+    "wavesurfer": "^1.3.4",
+    "wavesurfer.js": "^2.0.0-beta01"
+  }
+}
